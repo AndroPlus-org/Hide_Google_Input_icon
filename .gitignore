@@ -213,3 +213,7 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+*.apk
+XposedBridgeApi_2.1.jar
+gen/com/wedy/googleinputh/BuildConfig.java
+gen/com/wedy/googleinputh/R.java
