@@ -20,7 +20,7 @@ public class NotificationiconPatcher implements IXposedHookLoadPackage {
                 }
             };
             XposedHelpers.findAndHookMethod("com.google.android.inputmethod.japanese.MozcService",
-                    classLoader, "bm", methodreplacer);
+                    classLoader, "bn", methodreplacer);
         }
     }
 
